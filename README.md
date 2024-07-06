@@ -23,26 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo sobre os tipos de IAs Generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, decidi qual seria o tema apresentado. Em seguida, gerei e revisei o texto com a ajuda do ChatGPT. Por fim, criei uma conta no D-ID e escolhi o avatar que mais se adequava ao que queria apresentar. Escolhi o avatar, sua voz e o idioma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado, produzi um vídeo de quase 1 minuto sobre o tema proposto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+É interessante utilizar algumas das ferramentas, porém a falta de orçamento pode deixar o resultado um pouco a desejar.
 
 ## Links Interessantes
 
